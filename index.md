@@ -75,7 +75,7 @@
 }
 .bg-wrapper .envelope-wrapper .heart {
   position: absolute;
-  top: 80%;
+  top: 83%;
   left: 50%;
   width: 15px;
   height: 15px;
