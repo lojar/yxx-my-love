@@ -1,4 +1,4 @@
-<!doctype html>
+严晓晓亲启
 <html>
 <head>
 <meta charset="utf-8">
@@ -72,7 +72,7 @@
 }
 .bg-wrapper .envelope-wrapper .heart {
   position: absolute;
-  top: 50%;
+  top: 95.5%;
   left: 50%;
   width: 15px;
   height: 15px;
