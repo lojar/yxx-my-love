@@ -13,6 +13,9 @@
 	align-items: center;
 	background-color: #D46466;
 }
+	.btn{
+	   display:none !important;
+	}
 .bg-wrapper .envelope-wrapper {
   background: #B4D2EE;
 }
